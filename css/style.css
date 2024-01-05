@@ -822,11 +822,11 @@ body {
   .footer__contacts-text {
     text-align: center;
   }
-  .footer__nav {
+  /* .footer__nav {
     flex-wrap: nowrap;
-  }
+  } */
   .footer__social {
-    margin-left: 30px;
+    margin: 30px auto;
   }
   .footer__copy {
     margin-right: auto;
