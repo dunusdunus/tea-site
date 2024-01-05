@@ -714,7 +714,7 @@ body {
     gap: 30px 133px;
   }
   .footer__inner {
-    grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: repeat(3, 0.5fr);
     grid-template-rows: 1fr 1fr;
   }
   .footer__products,
